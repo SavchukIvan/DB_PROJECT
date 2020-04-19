@@ -1,0 +1,2 @@
+Прототип додатку в телеграм: https://www.figma.com/proto/FXxpd98XzKMflNKoXybd61/DB_project?node-id=1%3A3&viewport=817%2C476%2C0.9283249974250793&scaling=min-zoom
+Прототип веб-додатку для адміністратора: https://www.figma.com/proto/Y141iixJAY98w5qSFg1eiE/Cinema-master?node-id=1%3A4&viewport=-549%2C618%2C0.6066959500312805&scaling=scale-down
